@@ -11,5 +11,14 @@ class Solution:
             boats+=1
         return boats
 
+        # while i<=j:
+        #     if people[i]+people[j]<=limit:
+        #         i+=1
+        #         j-=1
+        #         boats+=1
+        #     else:
+        #         j-=1
+        #         boats+=boats
+
 
         
